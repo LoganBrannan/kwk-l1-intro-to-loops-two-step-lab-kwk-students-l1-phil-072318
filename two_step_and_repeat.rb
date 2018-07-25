@@ -1,5 +1,9 @@
 def first_steps
   # Write a loop that outputs "Right foot back", "Left foot back",
+  
+end
+
+counter
   # "Right foot back", and "Stop", with sleep after each
 end
 
